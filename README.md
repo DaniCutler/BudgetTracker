@@ -16,9 +16,9 @@ Deployed app:
 Features
 Transactions can be made offline and online.
 
-*Technologies
-*JavaScript
-*Express
-*Node
-*IndexDB
-*Nelify
+Technologies Used:
+JavaScript
+Express
+ENode
+IndexDB
+Heroku
